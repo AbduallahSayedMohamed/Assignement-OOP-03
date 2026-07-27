@@ -60,6 +60,51 @@
              */
 
             #endregion
+
+            #region Part-02
+            //Console.WriteLine();
+            //Console.WriteLine();
+       
+
+            //Console.WriteLine(" ========== Cinema Opened ==========");
+            //Cinema C = new Cinema(" Route Cinema ");
+            //C.OpenCinema();
+            //Console.WriteLine();
+
+            //Console.WriteLine(" ========== All Tickets ==========");
+            //StandardTicket standard = new StandardTicket("A-5", "Inception", 120);
+            //VIPTicket vip = new VIPTicket(true, "Avengers", 200);
+            //IMAXTicket imax = new IMAXTicket(false, "Dune", 180);
+
+            //C.AddTicket(standard);
+            //C.AddTicket(vip);
+            //C.AddTicket(imax);
+
+            //// print all ticket 
+            //C.PrintAllTickets();
+
+            //Console.WriteLine(" ========== Statistics ========== ");
+            //Ticket.GetTotalTickets();
+            //Console.WriteLine($" Total Tickets: {Ticket.GetTotalTickets()}");
+            //Console.WriteLine();
+          
+            //Console.WriteLine(BookingHelper.GenerateBookingReference());
+            //Console.WriteLine(BookingHelper.GenerateBookingReference());
+            //Console.WriteLine() ;
+            //int numberOfTickets = 5;
+            //double PricePerTicket = 20;
+            //Console.WriteLine($" Group Discount ({numberOfTickets} tickets * {PricePerTicket} EGP ): {BookingHelper.CalcGroupDiscount(numberOfTickets, PricePerTicket)} ( 10% off applied)");
+            //Console.WriteLine();
+            //Console.WriteLine(" ========== Cinema Closed ==========");
+
+            //C.CloseCinema();
+
+            #endregion
+
+
+
+
+
         }
     }
 }
